@@ -1,0 +1,1 @@
+alert("the site seems to be insecure and risky");
